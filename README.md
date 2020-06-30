@@ -1,7 +1,7 @@
 # 3d-models
 Open source 3D models I've made!
 
-Create models:
+Created models:
 
 - Low poly world
     - Clouds
